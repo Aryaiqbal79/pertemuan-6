@@ -1,0 +1,21 @@
+$ python main.py
+Konversi nilai angka -> huruf:
+  92 -> A
+  82 -> AB
+  77 -> B
+  71 -> BC
+  66 -> C
+  55 -> E
+
+IPK: 3.5
+
+Transkrip:
+Nama : Mahasiswa Contoh
+NIM  : 20240001
+----------------------------------------
+Pemrograman Python             3 SKS  A
+Basis Data                     3 SKS  B
+Arsitektur SI                  2 SKS  AB
+----------------------------------------
+Total SKS : 8
+IPK       : 3.5

@@ -1,0 +1,13 @@
+$ python analisis_api.py
+Total post             : 100
+Jumlah post per user   : {1: 10, 2: 10, 3: 10, 4: 10, 5: 10, 6: 10, 7: 10, 8: 10, 9: 10, 10: 10}
+Judul panjang (>40)    : 45
+
+5 judul terpanjang:
+  - (79 karakter) repellendus qui recusandae incidunt voluptates tenetur qui omnis exercitationem
+  - (78 karakter) eligendi iste nostrum consequuntur adipisci praesentium sit beatae perferendis
+  - (76 karakter) consequatur placeat omnis quisquam quia reprehenderit fugit veritatis facere
+  - (76 karakter) optio ipsam molestias necessitatibus occaecati facilis veritatis dolores aut
+  - (74 karakter) sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+
+Hasil lengkap tersimpan di: /home/hatch/workspace/your_files/latihan-soal-python/praktik/hasil_analisis_api.json

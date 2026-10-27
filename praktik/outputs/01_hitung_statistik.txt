@@ -1,0 +1,8 @@
+$ python hitung_statistik.py
+Data : [70, 80, 80, 90, 100]
+mean                : 84
+median              : 80
+modus               : 80
+range               : 30
+standard_deviation  : 11.40175425099138
+Semua assert lolos.

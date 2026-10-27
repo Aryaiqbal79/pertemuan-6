@@ -1,0 +1,6 @@
+$ python validasi_data.py
+Data benar : (True, [])
+Data salah : (False, ["Field 'nama' wajib diisi.", "Field 'usia' harus bertipe int, tetapi mendapat str.", "Field 'ipk': nilai maksimal 4.0, tetapi mendapat 4.5.", "Field 'prodi' harus salah satu dari ['SI', 'TI', 'PGSD'], tetapi mendapat 'Hukum'."])
+Dengan validator tambahan : (False, ['Untuk prodi SI, IPK minimal 2.0.'])
+Menolak field ekstra : (False, ["Field 'hobi' tidak dikenal di schema."])
+Semua assert lolos.

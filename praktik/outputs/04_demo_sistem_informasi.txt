@@ -1,0 +1,18 @@
+$ python demo_sistem_informasi.py
+CREATE:
+{'nim': '20240001', 'nama': 'Mahasiswa Contoh', 'prodi': 'SI', 'ipk': 3.5}
+{'nim': '20240002', 'nama': 'Mahasiswa Kedua', 'prodi': 'TI', 'ipk': 3.2}
+
+READ (semua):
+  {'nim': '20240001', 'nama': 'Mahasiswa Contoh', 'prodi': 'SI', 'ipk': 3.5}
+  {'nim': '20240002', 'nama': 'Mahasiswa Kedua', 'prodi': 'TI', 'ipk': 3.2}
+
+READ (satu, NIM 20240001):
+  {'nim': '20240001', 'nama': 'Mahasiswa Contoh', 'prodi': 'SI', 'ipk': 3.5}
+
+UPDATE (IPK 20240001 menjadi 3.75):
+  {'nim': '20240001', 'nama': 'Mahasiswa Contoh', 'prodi': 'SI', 'ipk': 3.75}
+
+DELETE (NIM 20240002):
+  Terhapus: True
+  Sisa data: [{'nim': '20240001', 'nama': 'Mahasiswa Contoh', 'prodi': 'SI', 'ipk': 3.75}]
