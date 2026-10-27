@@ -1,0 +1,78 @@
+{
+  "total_post": 100,
+  "jumlah_post_per_user": {
+    "1": 10,
+    "2": 10,
+    "3": 10,
+    "4": 10,
+    "5": 10,
+    "6": 10,
+    "7": 10,
+    "8": 10,
+    "9": 10,
+    "10": 10
+  },
+  "jumlah_judul_panjang_lebih_dari_40_karakter": 45,
+  "judul_terpanjang_10": [
+    {
+      "id": 50,
+      "user_id": 5,
+      "judul": "repellendus qui recusandae incidunt voluptates tenetur qui omnis exercitationem",
+      "panjang_judul": 79
+    },
+    {
+      "id": 43,
+      "user_id": 5,
+      "judul": "eligendi iste nostrum consequuntur adipisci praesentium sit beatae perferendis",
+      "panjang_judul": 78
+    },
+    {
+      "id": 60,
+      "user_id": 6,
+      "judul": "consequatur placeat omnis quisquam quia reprehenderit fugit veritatis facere",
+      "panjang_judul": 76
+    },
+    {
+      "id": 84,
+      "user_id": 9,
+      "judul": "optio ipsam molestias necessitatibus occaecati facilis veritatis dolores aut",
+      "panjang_judul": 76
+    },
+    {
+      "id": 1,
+      "user_id": 1,
+      "judul": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "panjang_judul": 74
+    },
+    {
+      "id": 63,
+      "user_id": 7,
+      "judul": "voluptas blanditiis repellendus animi ducimus error sapiente et suscipit",
+      "panjang_judul": 72
+    },
+    {
+      "id": 42,
+      "user_id": 5,
+      "judul": "commodi ullam sint et excepturi error explicabo praesentium voluptas",
+      "panjang_judul": 68
+    },
+    {
+      "id": 16,
+      "user_id": 2,
+      "judul": "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio",
+      "panjang_judul": 67
+    },
+    {
+      "id": 52,
+      "user_id": 6,
+      "judul": "qui enim et consequuntur quia animi quis voluptate quibusdam",
+      "panjang_judul": 60
+    },
+    {
+      "id": 85,
+      "user_id": 9,
+      "judul": "dolore veritatis porro provident adipisci blanditiis et sunt",
+      "panjang_judul": 60
+    }
+  ]
+}
